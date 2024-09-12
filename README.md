@@ -1,8 +1,7 @@
-Here's the exact text you can copy and paste into your `README.md` file on GitHub:
 
----
 
-# Diabetes Detection Project
+# Diabetes Detection using ML
+
 
 ## Overview
 This project focuses on predicting diabetes using machine learning models. The dataset contains various health indicators such as glucose levels, blood pressure, insulin levels, BMI, and more. The goal is to build a machine learning model that accurately predicts whether a person has diabetes based on these features.
