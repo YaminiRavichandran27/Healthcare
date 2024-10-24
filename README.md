@@ -51,8 +51,7 @@ To run the code, you will need the following libraries:
 - Scikit-learn
 - Matplotlib
 - Seaborn
-- Jupyter Notebook (optional, for interactive development)
-
+- Jupyter Notebook 
 Install the required dependencies using:
 ```bash
 pip install -r requirements.txt
